@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dhlee
+Build-Jdk: 9.0.1
+Implementation-Title: spring-boot-journal
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.apress.spring
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-journal
+Created-By: Maven Integration for Eclipse
+
