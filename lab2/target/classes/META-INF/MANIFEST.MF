@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dhlee
+Build-Jdk: 9.0.1
+Implementation-Title: lab2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cclab.web.client
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/lab2
+Created-By: Maven Integration for Eclipse
+
